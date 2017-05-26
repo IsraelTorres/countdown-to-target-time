@@ -7,7 +7,7 @@
 # of what time the shell file is started.
 # special shoutz to ph4nt4zm & trash1e
 #
-# time_target=$(( 16 * 3600 + 30 * 60 )) # 59400, 16:30, 4:30PM
+time_target=$(( 16 * 3600 + 30 * 60 )) # 59400, 16:30, 4:30PM
 #
 while [[ 1 ]]
 	do
